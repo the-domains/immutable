@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The Sentries, The Watchers, The Keepers of the Dead'
-datePublished: '2016-06-16T08:49:24.202Z'
-dateModified: '2016-06-16T08:48:45.045Z'
+datePublished: '2016-06-16T17:45:19.662Z'
+dateModified: '2016-06-16T17:45:02.581Z'
 title: Serenity
 author:
   - name: ''
@@ -21,6 +21,8 @@ _type: Article
 ---
 The Sentries, The Watchers, The Keepers of the Dead
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b084c16ff61cffe2b280b8f2cd7ae04f/croprotate.jpg?cropheight=3841&cropwidth=5760&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F3ddb1d1a-7a88-41af-950a-6b7bb6a07038.jpg&x=0&y=0)
+
+  
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4ac94857a67a6e444e6746637d6a116e/croprotate.jpg?cropheight=3841&cropwidth=5760&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F137f2e5b-4aa3-4269-a8bb-5fee5ddf5856.jpg&x=0&y=0)
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/217a639501e1a9f74db3e365f5f52904/croprotate.jpg?cropheight=3841&cropwidth=5760&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F004f7890-71ca-4bff-b65b-8983b83034dc.jpg&x=0&y=0)
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/02627f64d3fdd37fb71f4d18eeb3746c/croprotate.jpg?cropheight=3841&cropwidth=5760&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7db34b4f-e5f4-4016-be2c-bcf439bb1568.jpg&x=0&y=0)
