@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The Sentries, The Watchers, The Keepers of the Dead'
-datePublished: '2016-06-16T08:06:12.240Z'
-dateModified: '2016-06-16T08:05:06.260Z'
-title: Offerings
+datePublished: '2016-06-16T08:15:54.394Z'
+dateModified: '2016-06-16T08:15:35.579Z'
+title: The Guardian
 author:
   - name: ''
     url: ''
@@ -20,7 +20,7 @@ _type: Article
 
 ---
 **The Sentries, The Watchers, The Keepers of the Dead**
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ed7347c5cf8cdf602f9f2ba0f9c0d0d4/croprotate.jpg?cropheight=3841&cropwidth=5760&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F93d929d2-7b28-4cc8-9b43-4c3ed1bedda9.jpg&x=0&y=0)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf52933f-c365-403f-a630-a6c8919b5987.jpg)
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/217a639501e1a9f74db3e365f5f52904/croprotate.jpg?cropheight=3841&cropwidth=5760&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F004f7890-71ca-4bff-b65b-8983b83034dc.jpg&x=0&y=0)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ddb1d1a-7a88-41af-950a-6b7bb6a07038.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7db34b4f-e5f4-4016-be2c-bcf439bb1568.jpg)
