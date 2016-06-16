@@ -5,16 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The Sentries, The Watchers, The Keepers of the Dead'
-datePublished: '2016-06-16T08:01:51.055Z'
-dateModified: '2016-06-16T08:01:14.654Z'
+datePublished: '2016-06-16T08:06:12.240Z'
+dateModified: '2016-06-16T08:05:06.260Z'
 title: Offerings
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-06-16-offerings.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-16-offerings.md
 url: offerings/index.html
 _type: Article
 
