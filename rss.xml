@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[immutable]]></title>
+        <description><![CDATA[immutable]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 16 Jun 2016 08:01:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Offerings]]></title>
+            <description><![CDATA[<article><h1>Offerings</h1><p>The Sentries, The Watchers, The Keepers of the Dead</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ed7347c5cf8cdf602f9f2ba0f9c0d0d4/croprotate.jpg?cropheight=3841&cropwidth=5760&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F93d929d2-7b28-4cc8-9b43-4c3ed1bedda9.jpg&x=0&y=0"></article>]]></description>
+            <link>undefinedofferings/index.html</link>
+            <guid isPermaLink="false">a84cfb4d-91d6-400d-9a35-700bb302d71c</guid>
+            <pubDate>Thu, 16 Jun 2016 08:01:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
