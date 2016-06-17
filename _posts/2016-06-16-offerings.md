@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Serenity '
-datePublished: '2016-06-17T02:04:47.746Z'
-dateModified: '2016-06-17T02:04:16.325Z'
+datePublished: '2016-06-17T02:08:07.431Z'
+dateModified: '2016-06-17T02:08:06.816Z'
 title: Serenity
 author:
   - name: ''
@@ -19,9 +19,9 @@ url: offerings/index.html
 _type: Article
 
 ---
-# The Sentries, The Watchers, The Keepers of the Dead
+The Sentries, The Watchers, The Keepers of the Dead
 
-  
+photographs by P.X.Johnson
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b084c16ff61cffe2b280b8f2cd7ae04f/croprotate.jpg?cropheight=3841&cropwidth=5760&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F3ddb1d1a-7a88-41af-950a-6b7bb6a07038.jpg&x=0&y=0)
 
 Serenity
