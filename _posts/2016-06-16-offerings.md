@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-06-17T02:16:37.542Z'
-dateModified: '2016-06-17T02:16:31.193Z'
-title: The Keepers of the Dead
+description: 'Serenity '
+datePublished: '2016-06-17T05:51:45.807Z'
+dateModified: '2016-06-17T05:36:11.578Z'
+title: Serenity
 author:
   - name: ''
     url: ''
@@ -19,15 +19,10 @@ url: offerings/index.html
 _type: Article
 
 ---
-## The Keepers of the Dead
-
-  
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b084c16ff61cffe2b280b8f2cd7ae04f/croprotate.jpg?cropheight=3841&cropwidth=5760&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F3ddb1d1a-7a88-41af-950a-6b7bb6a07038.jpg&x=0&y=0)
 
-  
-Serenity  
+Serenity
 
-  
   
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4ac94857a67a6e444e6746637d6a116e/croprotate.jpg?cropheight=3841&cropwidth=5760&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F137f2e5b-4aa3-4269-a8bb-5fee5ddf5856.jpg&x=0&y=0)
 
