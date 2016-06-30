@@ -1,6 +1,6 @@
 name: immutable
 favicon: null
-layout_spectrum: 0.38251
+layout_spectrum: 0.61524
 typography_spectrum: 0.90076
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#6d6f6c'
     - '#7c8999'
     - '#b6ba4a'
-  brandStrength: 0.0625
+  brandStrength: 0.5
   lightness: 0.1875
   saturation: 0.25
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.5
 purpose: []
